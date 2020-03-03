@@ -1,6 +1,20 @@
 img {
   cursor: pointer;
 }
+*.center {
+  align-content: center;
+}
+
+body{ 
+  background-color: #01FF70
+  ;
+}
+
+
+.oxanium{
+  font-family: 'Oxanium';
+
+}
 
 .column {
   float: left;
@@ -12,4 +26,9 @@ img {
   content: "";
   clear: both;
   display: table;
+}
+
+
+.end {
+  align-items: flex-end;
 }
